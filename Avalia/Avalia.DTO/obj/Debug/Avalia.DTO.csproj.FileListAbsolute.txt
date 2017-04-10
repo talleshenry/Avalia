@@ -1,0 +1,25 @@
+C:\Users\Talles_Henrique\documents\visual studio 2015\Projects\Avalia\Avalia.DTO\bin\Debug\Avalia.DTO.dll
+C:\Users\Talles_Henrique\documents\visual studio 2015\Projects\Avalia\Avalia.DTO\bin\Debug\Avalia.DTO.pdb
+C:\Users\Talles_Henrique\documents\visual studio 2015\Projects\Avalia\Avalia.DTO\obj\Debug\Avalia.DTO.csprojResolveAssemblyReference.cache
+C:\Users\Talles_Henrique\documents\visual studio 2015\Projects\Avalia\Avalia.DTO\obj\Debug\Avalia.DTO.dll
+C:\Users\Talles_Henrique\documents\visual studio 2015\Projects\Avalia\Avalia.DTO\obj\Debug\Avalia.DTO.pdb
+C:\Users\Matheus Lima\Documents\Visual Studio 2015\Projects\Avalia\Avalia.DTO\bin\Debug\Avalia.DTO.dll
+C:\Users\Matheus Lima\Documents\Visual Studio 2015\Projects\Avalia\Avalia.DTO\bin\Debug\Avalia.DTO.pdb
+C:\Users\Matheus Lima\Documents\Visual Studio 2015\Projects\Avalia\Avalia.DTO\obj\Debug\Avalia.DTO.csprojResolveAssemblyReference.cache
+C:\Users\Matheus Lima\Documents\Visual Studio 2015\Projects\Avalia\Avalia.DTO\obj\Debug\Avalia.DTO.dll
+C:\Users\Matheus Lima\Documents\Visual Studio 2015\Projects\Avalia\Avalia.DTO\obj\Debug\Avalia.DTO.pdb
+C:\Users\Matheus Lima\Documents\Visual Studio 2015\Projects\Avalia\Avalia.DTO\bin\Debug\Avalia.DTO.dll.config
+C:\Users\Matheus Lima\Documents\Visual Studio 2015\Projects\Avalia\Avalia.DTO\bin\Debug\EntityFramework.dll
+C:\Users\Matheus Lima\Documents\Visual Studio 2015\Projects\Avalia\Avalia.DTO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Matheus Lima\Documents\Visual Studio 2015\Projects\Avalia\Avalia.DTO\bin\Debug\EntityFramework.xml
+C:\Users\Matheus Lima\Documents\Visual Studio 2015\Projects\Avalia\Avalia.DTO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Talles_Henrique\Documents\Visual Studio 2015\Projects\Avalia\Avalia\Avalia.DTO\bin\Debug\Avalia.DTO.dll.config
+C:\Users\Talles_Henrique\Documents\Visual Studio 2015\Projects\Avalia\Avalia\Avalia.DTO\bin\Debug\Avalia.DTO.dll
+C:\Users\Talles_Henrique\Documents\Visual Studio 2015\Projects\Avalia\Avalia\Avalia.DTO\bin\Debug\Avalia.DTO.pdb
+C:\Users\Talles_Henrique\Documents\Visual Studio 2015\Projects\Avalia\Avalia\Avalia.DTO\bin\Debug\EntityFramework.dll
+C:\Users\Talles_Henrique\Documents\Visual Studio 2015\Projects\Avalia\Avalia\Avalia.DTO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Talles_Henrique\Documents\Visual Studio 2015\Projects\Avalia\Avalia\Avalia.DTO\bin\Debug\EntityFramework.xml
+C:\Users\Talles_Henrique\Documents\Visual Studio 2015\Projects\Avalia\Avalia\Avalia.DTO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Talles_Henrique\Documents\Visual Studio 2015\Projects\Avalia\Avalia\Avalia.DTO\obj\Debug\Avalia.DTO.csprojResolveAssemblyReference.cache
+C:\Users\Talles_Henrique\Documents\Visual Studio 2015\Projects\Avalia\Avalia\Avalia.DTO\obj\Debug\Avalia.DTO.dll
+C:\Users\Talles_Henrique\Documents\Visual Studio 2015\Projects\Avalia\Avalia\Avalia.DTO\obj\Debug\Avalia.DTO.pdb
